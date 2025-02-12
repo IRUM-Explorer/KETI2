@@ -1,1 +1,3 @@
-print('AI HUMAN팀 화이팅!')
+print('AI HUMAN팀')
+
+print('이동욱')
