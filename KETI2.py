@@ -1,0 +1,1 @@
+print('AI HUMAN팀 화이팅!')
